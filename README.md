@@ -8,7 +8,7 @@
 
 # 🩺 Arogyamitra — Offline Clinical AI Platform for Hospitals
 
-![Arogyamitra Logo]
+
 
 **Arogyamitra is a healthcare technology startup building safe, offline AI solutions for hospitals — beyond API-calling LLMs.**
 
