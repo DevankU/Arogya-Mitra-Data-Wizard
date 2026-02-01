@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Arogya Mitra</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Your Personal AI Health Assistant</string>
+    <string name="splash_status_initializing">Initializing secure core...</string>
+    <string name="splash_footer">On-device PPG Analysis - Private and Secure</string>
+    <string name="status_online">Online</string>
+    
+    <!-- Chat Screen -->
+    <string name="chat_title">Arogya Mitra</string>
+    <string name="chat_status_active">Active</string>
+    <string name="chat_on_device_ai">On-Device AI</string>
+    <string name="chat_input_hint">Ask about your symptoms...</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_ai_name">Arogya AI</string>
+    
+    <!-- PPG Screen -->
+    <string name="ppg_title">PPG Vitals</string>
+    <string name="ppg_instruction">Align face and hold still</string>
+    <string name="ppg_heart_rate">Heart Rate</string>
+    <string name="ppg_spo2">SpO2</string>
+    <string name="ppg_bpm">BPM</string>
+    <string name="ppg_scanning">Scanning...</string>
+    <string name="ppg_stop_scan">Stop Scan</string>
+    <string name="ppg_start_scan">Start Scan</string>
+    
+    <!-- Model Loading -->
+    <string name="model_loading">Loading model...</string>
+    <string name="model_select">Select Model</string>
+    <string name="model_import">Import Model</string>
+    
+    <!-- Common -->
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    
+    <!-- Health Disclaimer -->
+    <string name="disclaimer_title">Health Disclaimer</string>
+    <string name="disclaimer_message">This app is for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.</string>
+    <string name="disclaimer_accept">I Understand</string>
+</resources>
